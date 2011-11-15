@@ -1,4 +1,4 @@
 Sieve of Eratosthenes algorithm finds prime numbers below a certain number
 N. This algorithm is fast and efficent. In this code i have implemented
- algorithm at bitlevel. So my implementation of algorithm uses very less
- memory and time.
+algorithm at bitlevel. So my implementation of algorithm uses very less 
+memory and time.
